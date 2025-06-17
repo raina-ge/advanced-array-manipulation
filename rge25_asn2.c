@@ -1,8 +1,3 @@
-/* CS2211a 2021 */
-/* Assignment 02 */
-/* Raina Ge */
-/* 251154934 */
-/* rge25 */
 /* 10/04/21 */ 
 
 #include <stdio.h>
